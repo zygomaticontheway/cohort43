@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CW240314/CW240314.iml" filepath="$PROJECT_DIR$/CW240314/CW240314.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CW240315/CW240315.iml" filepath="$PROJECT_DIR$/CW240315/CW240315.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CW240318/CW240318.iml" filepath="$PROJECT_DIR$/CW240318/CW240318.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CW240319/CW240319.iml" filepath="$PROJECT_DIR$/CW240319/CW240319.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CW240320/CW240320.iml" filepath="$PROJECT_DIR$/CW240320/CW240320.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CW240321/CW240321.iml" filepath="$PROJECT_DIR$/CW240321/CW240321.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CW240322/CW240322.iml" filepath="$PROJECT_DIR$/CW240322/CW240322.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CW240325/CW240325.iml" filepath="$PROJECT_DIR$/CW240325/CW240325.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CW240326/CW240326.iml" filepath="$PROJECT_DIR$/CW240326/CW240326.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hello world/Hello world.iml" filepath="$PROJECT_DIR$/Hello world/Hello world.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/cohort43.iml" filepath="$PROJECT_DIR$/.idea/cohort43.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gr43_07_03/gr43_07_03.iml" filepath="$PROJECT_DIR$/gr43_07_03/gr43_07_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gr43_11_3_hw/gr43_11_3_hw.iml" filepath="$PROJECT_DIR$/gr43_11_3_hw/gr43_11_3_hw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gr43_12_3/gr43_12_3.iml" filepath="$PROJECT_DIR$/gr43_12_3/gr43_12_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gr43_12_3_HW/gr43_12_3_HW.iml" filepath="$PROJECT_DIR$/gr43_12_3_HW/gr43_12_3_HW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gr43_13_3/gr43_13_3.iml" filepath="$PROJECT_DIR$/gr43_13_3/gr43_13_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gr_43_05_03/gr_43_05_03.iml" filepath="$PROJECT_DIR$/gr_43_05_03/gr_43_05_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gr_43_06_03/gr_43_06_03.iml" filepath="$PROJECT_DIR$/gr_43_06_03/gr_43_06_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gr_43_11_3/gr_43_11_3.iml" filepath="$PROJECT_DIR$/gr_43_11_3/gr_43_11_3.iml" />
+    </modules>
+  </component>
+</project>
